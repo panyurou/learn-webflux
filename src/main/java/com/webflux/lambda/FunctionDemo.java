@@ -1,4 +1,4 @@
-package com.webflux;
+package com.webflux.lambda;
 
 @FunctionalInterface
 interface MyFunctionalInterface {
